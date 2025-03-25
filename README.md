@@ -23,7 +23,7 @@ Me chamo Matheus Canelutti, tenho 18 anos e sou natural de São Paulo. Concluí 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias
 
 <img 
     align="left" 
